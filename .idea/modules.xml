@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GoogleHome.iml" filepath="$PROJECT_DIR$/GoogleHome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoogleNow.iml" filepath="$PROJECT_DIR$/GoogleNow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoogleNow-Franciscotodo.iml" filepath="$PROJECT_DIR$/GoogleNow-Franciscotodo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
